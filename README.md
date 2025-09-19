@@ -1,10 +1,8 @@
-# (UPDATE IN README.md) Credit Scoring for Everyday Borrowers
-
-(UPDATE IN README.md)
+# Credit Scoring for Everyday Borrowers
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
 In order to determine whether regular borrowers are at risk of defaulting, I developed an AI-powered credit scoring model for this project.  To find important borrower characteristics and spot any bias in model projections, I examined real-world data using machine learning algorithms like logistic regression, decision trees, and gradient boosting.
 
- I used my knowledge of data visualization, model evaluation, supervised learning, and fairness audits.  This project was created as a component of the AI4ALL Ignite initiative, where I investigated the ethical applications of AI to solve practical problems and advance inclusion, equity, and transparency.
+I used my knowledge of data visualization, model evaluation, supervised learning, and fairness audits.  This project was created as a component of the AI4ALL Ignite initiative, where I investigated the ethical applications of AI to solve practical problems and advance inclusion, equity, and transparency.
 
 
 ## Problem Statement <!--- do not change this line -->
@@ -14,7 +12,6 @@ This research investigates how machine learning can raise regular borrowers' cre
 
 ## Key Results <!--- do not change this line -->
 
-(UPDATE IN README.md)
 1. 89.8% model accuracy using Gradient Boosting.
 
 2. Key features identified: call duration, past campaign success, balance.
@@ -30,7 +27,6 @@ This research investigates how machine learning can raise regular borrowers' cre
 
 ## Methodologies <!--- do not change this line -->
 
-(UPDATE IN README.md)
 Machine Learning Under Supervision
 
  Algorithms: Gradient Boosting, Decision Trees, and Logistic Regression
@@ -56,12 +52,9 @@ Machine Learning Under Supervision
 
 ## Data Sources <!--- do not change this line -->
 
-(UPDATE IN README.md)
 Kaggle dataset: https://www.kaggle.com/datasets/kapturovalexander/bank-credit-scoring
 
 ## Technologies Used <!--- do not change this line -->
-
-(UPDATE IN README.md)
 List the technologies, libraries, and frameworks used in your project.
 - Google Colab
 - Python
@@ -73,8 +66,6 @@ List the technologies, libraries, and frameworks used in your project.
 
 
 ## Authors <!--- do not change this line -->
-
-(UPDATE IN README.md)
 
 *This project was completed in collaboration with:*
 - *Avneet Kaur  (kavneet194@gmail.com)*
