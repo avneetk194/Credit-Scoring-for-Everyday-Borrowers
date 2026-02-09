@@ -1,5 +1,4 @@
 # Credit Scoring for Everyday Borrowers
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
 In order to determine whether regular borrowers are at risk of defaulting, I developed an AI-powered credit scoring model for this project.  To find important borrower characteristics and spot any bias in model projections, I examined real-world data using machine learning algorithms like logistic regression, decision trees, and gradient boosting.
 
 I used my knowledge of data visualization, model evaluation, supervised learning, and fairness audits.  This project was created as a component of the AI4ALL Ignite initiative, where I investigated the ethical applications of AI to solve practical problems and advance inclusion, equity, and transparency.
@@ -7,7 +6,6 @@ I used my knowledge of data visualization, model evaluation, supervised learning
 
 ## Problem Statement <!--- do not change this line -->
 
-(UPDATE IN README.md)
 This research investigates how machine learning can raise regular borrowers' credit scores. It tackles the demand for risk forecasts that are more equitable and precise, particularly as artificial intelligence becomes more prevalent in financial choices. The initiative demonstrates how AI may facilitate more responsible and inclusive lending by assessing model performance and bias.
 
 ## Key Results <!--- do not change this line -->
@@ -55,7 +53,7 @@ Machine Learning Under Supervision
 Kaggle dataset: https://www.kaggle.com/datasets/kapturovalexander/bank-credit-scoring
 
 ## Technologies Used <!--- do not change this line -->
-List the technologies, libraries, and frameworks used in your project.
+The technologies, libraries, and frameworks used in our project.
 - Google Colab
 - Python
 - pandas
