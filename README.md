@@ -1,4 +1,4 @@
-# Credit Scoring for Everyday Borrowers
+# Consumer Lending Risk Analytics & Default Prediction
 In order to determine whether regular borrowers are at risk of defaulting, I developed an AI-powered credit scoring model for this project.  To find important borrower characteristics and spot any bias in model projections, I examined real-world data using machine learning algorithms like logistic regression, decision trees, and gradient boosting.
 
 I used my knowledge of data visualization, model evaluation, supervised learning, and fairness audits.  This project was created as a component of the AI4ALL Ignite initiative, where I investigated the ethical applications of AI to solve practical problems and advance inclusion, equity, and transparency.
